@@ -1,0 +1,12 @@
+"oyun",
+"tarih",
+"sürüm",
+"seçenekler",
+"egpy terminal",
+"help",
+"lang",
+"page+",
+"page-"
+"set",
+"name",
+"show"

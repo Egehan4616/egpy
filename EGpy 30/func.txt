@@ -1,0 +1,16 @@
+eg["oyun",
+"tarih",
+"surum",
+"secenekler",
+"egpy terminal",
+"help",
+"lang",
+"page+",
+"page-"
+"set",
+"name",
+"show",
+"var",
+"uyu",
+"file",
+"new" ]

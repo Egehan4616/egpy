@@ -1,0 +1,5 @@
+﻿
+surum: 3.0,
+yazildigi diller:python,
+kutuphaneler: ursina time ,
+yazan kisi: egehan kahraman

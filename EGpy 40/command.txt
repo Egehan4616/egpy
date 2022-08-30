@@ -1,0 +1,31 @@
+﻿surum
+tarih
+oyun
+secenekler
+egpy terminal
+lang
+help
+page+
+page-
+set Name
+name
+show Options
+new var
+var
+show
+set change lang
+set change lang "tr"
+set change lang "uk"
+uyu
+open
+open file
+clear
+new file
+write
+write file
+open game
+open game cr
+copy game
+new game
+edit file
+komutlar

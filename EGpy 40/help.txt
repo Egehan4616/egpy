@@ -1,0 +1,11 @@
+﻿
+surum: 4.0,
+yazildigi diller:python,
+kutuphaneler: ursina time os shutil decimal ,
+yazan kisi: egehan kahraman,
+komutları görmek için "komutlar" yazınız,
+
+
+
+
+her hakkı saklıdır 2022 egehan kahraman
